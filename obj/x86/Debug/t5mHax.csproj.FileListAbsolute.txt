@@ -1,0 +1,14 @@
+C:\Users\Jake\source\repos\t5mHax\bin\x86\Debug\t5mHax.exe.config
+C:\Users\Jake\source\repos\t5mHax\bin\x86\Debug\t5mHax.exe
+C:\Users\Jake\source\repos\t5mHax\bin\x86\Debug\t5mHax.pdb
+C:\Users\Jake\source\repos\t5mHax\bin\x86\Debug\Figgle.dll
+C:\Users\Jake\source\repos\t5mHax\bin\x86\Debug\Memory.dll
+C:\Users\Jake\source\repos\t5mHax\bin\x86\Debug\System.Security.Principal.Windows.dll
+C:\Users\Jake\source\repos\t5mHax\bin\x86\Debug\Figgle.xml
+C:\Users\Jake\source\repos\t5mHax\bin\x86\Debug\Memory.xml
+C:\Users\Jake\source\repos\t5mHax\bin\x86\Debug\System.Security.Principal.Windows.xml
+C:\Users\Jake\source\repos\t5mHax\obj\x86\Debug\t5mHax.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\t5mHax\obj\x86\Debug\t5mHax.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\t5mHax\obj\x86\Debug\t5mHax.csproj.CopyComplete
+C:\Users\Jake\source\repos\t5mHax\obj\x86\Debug\t5mHax.exe
+C:\Users\Jake\source\repos\t5mHax\obj\x86\Debug\t5mHax.pdb

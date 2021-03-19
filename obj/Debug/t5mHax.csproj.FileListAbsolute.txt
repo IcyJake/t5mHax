@@ -1,0 +1,10 @@
+C:\Users\Jake\source\repos\t5mHax\bin\Debug\t5mHax.exe.config
+C:\Users\Jake\source\repos\t5mHax\bin\Debug\t5mHax.exe
+C:\Users\Jake\source\repos\t5mHax\bin\Debug\t5mHax.pdb
+C:\Users\Jake\source\repos\t5mHax\bin\Debug\Figgle.dll
+C:\Users\Jake\source\repos\t5mHax\bin\Debug\Figgle.xml
+C:\Users\Jake\source\repos\t5mHax\obj\Debug\t5mHax.csprojAssemblyReference.cache
+C:\Users\Jake\source\repos\t5mHax\obj\Debug\t5mHax.csproj.CoreCompileInputs.cache
+C:\Users\Jake\source\repos\t5mHax\obj\Debug\t5mHax.csproj.CopyComplete
+C:\Users\Jake\source\repos\t5mHax\obj\Debug\t5mHax.exe
+C:\Users\Jake\source\repos\t5mHax\obj\Debug\t5mHax.pdb
